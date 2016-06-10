@@ -1,4 +1,4 @@
-# Workout_Timer-Tkinter
+# Workout_Timer
 #The goal of this project is to create a multi-mode workout timer in python with a GUI. Tkinter will be used for the GUI for the inital  trial of this project. Different modes will incude:
 -Count down
 -Count Up
